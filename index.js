@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
   function search () {
     const str = document.getElementById('search').value
 
-    const output = 'https://www.startpage.com/do/dsearch?query=' + str
+    const output = "https://duckduckgo.com/?q=" + str;
 
     location.href = output
   }
