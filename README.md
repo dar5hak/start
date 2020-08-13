@@ -1,6 +1,6 @@
 # start ☕
 
-A new tab startpage or home page. Shows local and UTC time, day of the week and date, and features search (via [Startpage](https://www.startpage.com/)) and bookmarks you can version control.
+A new tab startpage or home page. Shows local and UTC time, day of the week and date, and features search (via [DuckDuckGo](https://duckduckgo.com/)) and bookmarks you can version control.
 
 There are three themes that change throughout the day.
 
